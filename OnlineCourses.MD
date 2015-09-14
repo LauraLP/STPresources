@@ -1,11 +1,11 @@
-Introduction to Bioinformatics (for the first rotation particularly non biologists):
-  Life sciences in your computer:    https://www.coursera.org/course/bioinform
+==Introduction to Bioinformatics (for the first rotation particularly non biologists):==
+  '''Life sciences in your computer''':    [[https://www.coursera.org/course/bioinform]]
     +LLP- Ideal for those from a non-biology background to get to grips with the first rotation in genetics. 
-  Bioinformatic methods I&II:   https://class.coursera.org/bioinfomethods1-001
+  '''Bioinformatic methods I&II''':   https://class.coursera.org/bioinfomethods1-001
     +LLP- Same as above and covers similar topics. Good for general background.
 
-Introductory level Python courses:
-  codecademy python :    https://www.codecademy.com/learn
+==Introductory level Python courses:==
+  '''codecademy python''' :    [[https://www.codecademy.com/learn]]
     +LLP- Good intro to the syntax of python. You  get through the course fairly quickly. Composed of small, guided, exercises
   Python for everybody:    https://www.coursera.org/specializations/python
     ++LLP- Very clearly explained programming principles. Useful to get to grips with python quickly.
@@ -25,6 +25,7 @@ Algorithms:
     +++LLP- wonderful set of programs to work through slowly. Helpful to do concurrently with any of the learning to program courses as it helps highlight the uses of programming in a biological context.
   Bioinformatics Specialisation:  https://www.coursera.org/specializations/bioinformatics
     +++LLP- wonderful course created by the same people as Rosalind. Can be made more or less challenging, online e-book is great. Can't recommend highly enough. 
+
 Introduction to Genomics:
   Genomic data science:    https://www.coursera.org/specializations/genomics?utm_medium=courseDescripTop
     +LLP- Most courses in the specialisation are very simple, but would give first years a fairly good grounding on the basics
@@ -36,6 +37,7 @@ Statistics:
 Databases:
   Introduction to Databases:  https://class.coursera.org/db
     +LLP- Good explanation of different kinds of databases. A little dry as a course, for my liking, but gets the basic job done.
+
 Physics roation: 
   Circuits and Electronics:   https://courses.edx.org/courses/MITx/6.002_4x/3T2014/info
     LLP- I found this course post-Liverpool. But I went through it for completness sake. It's pretty good and could be of use if you are keen, but not required.
